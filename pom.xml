@@ -637,6 +637,7 @@
         <module>cpu_features</module>
         <module>modsecurity</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform>${os.name}-${os.arch}</javacpp.platform>
@@ -1141,6 +1142,7 @@
         <module>depthai</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1209,6 +1211,7 @@
         <module>onnxruntime</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1266,6 +1269,7 @@
         <module>nvcodec</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1336,6 +1340,7 @@
         <module>skia</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1426,6 +1431,7 @@
         <module>cpu_features</module>
         <module>modsecurity</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1557,6 +1563,7 @@
         <module>cpu_features</module>
         <module>modsecurity</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1623,6 +1630,7 @@
         <module>liquidfun</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
@@ -1708,6 +1716,7 @@
         <module>qt</module>
         <module>cpu_features</module>
         <module>systems</module>
+        <module>zlib</module>
       </modules>
       <properties>
         <javacpp.platform.android-arm></javacpp.platform.android-arm>
